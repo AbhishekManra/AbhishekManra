@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Astronomy**
 
+![Alt Text](https://i.pinimg.com/originals/5e/ec/9f/5eec9ff83a549b1a11fba7f815cc7182.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek manral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek manral" height="30" width="40" /></a>
